@@ -1,0 +1,1 @@
+Example on how to use the external-doc patch.
