@@ -14,4 +14,4 @@ features = ["unstable_external_doc"]
 
 [patch.crates-io.structopt]
 git = "https://github.com/swfsql/structopt"
-rev = "9b004fb"
+rev = "6e400fa"

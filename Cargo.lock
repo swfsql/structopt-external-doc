@@ -124,7 +124,7 @@ checksum = "8ea5119cdb4c55b55d432abb513a0429384878c15dde60cc77b1c99de1a95a6a"
 [[package]]
 name = "structopt"
 version = "0.3.15"
-source = "git+https://github.com/swfsql/structopt?rev=9b004fb#9b004fb69ec5284d05354dae097a2242cc7c9c97"
+source = "git+https://github.com/swfsql/structopt?rev=6e400fa#6e400fac0728fdcc505f4870fd73d9bf1c13c870"
 dependencies = [
  "clap",
  "lazy_static",
@@ -134,7 +134,7 @@ dependencies = [
 [[package]]
 name = "structopt-derive"
 version = "0.4.8"
-source = "git+https://github.com/swfsql/structopt?rev=9b004fb#9b004fb69ec5284d05354dae097a2242cc7c9c97"
+source = "git+https://github.com/swfsql/structopt?rev=6e400fa#6e400fac0728fdcc505f4870fd73d9bf1c13c870"
 dependencies = [
  "heck",
  "proc-macro-error",
